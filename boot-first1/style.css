@@ -1,0 +1,16 @@
+.myJumbo{
+  background-color: lightslategrey;
+  width: 100%;
+}
+.myRow{
+  width: 100%;
+  margin: 0px;
+}
+.myAcc{
+  background-color: aquamarine;
+  border-radius: .3rem;
+}
+.myForm{
+  background-color: lightseagreen;
+  border-radius: .3rem;
+}
